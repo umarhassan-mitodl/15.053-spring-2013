@@ -144,12 +144,12 @@ Staff and Consulting Support
 
 One of the TAs or Professor Orlin will meet at least twice with each student team during the course of the projects. In addition, the staff is available to answer questions relating to the project throughout April and early May.
 
-In addition, there are five doctoral students in the {{% resource_link "5a8860c5-4281-4270-91d7-e88019679994" "OR Center" %}} who have volunteered several hours a week in April and May to serve as "consultants." They can provide feedback on what you have proposed to do, and may offer suggestions that either simplify your task or enhance your ability to achieve your goals. (They are not available for suggesting projects.) If you are interested in meeting with one of the consultants for up to ½ hour per week, please contact one of the TAs.
+In addition, there are five doctoral students in the [OR Center](http://web.mit.edu/orc/www/) who have volunteered several hours a week in April and May to serve as "consultants." They can provide feedback on what you have proposed to do, and may offer suggestions that either simplify your task or enhance your ability to achieve your goals. (They are not available for suggesting projects.) If you are interested in meeting with one of the consultants for up to ½ hour per week, please contact one of the TAs.
 
 Limits to Excel Solver and Alternatives
 ---------------------------------------
 
-Solver is limited to 200 decision variables for all models, and it is limited to 100 constraints for nonlinear models. While many successful projects will be possible with these limits, other projects will need software capable of solving much larger optimization problems. There are also tools that permit upfront programming or scripting to formulate the model. The TAs and consultants will provide limited support to groups wishing to learn and use other tools (such as {{% resource_link "b504d7b3-baa2-4f57-81f6-4f73414a68a6" "CPLEX" %}}, {{% resource_link "e3d80cc7-d738-42e1-ac0a-97549e8c1f82" "AMPL{{< sup \"®\" >}}" %}}, {{% resource_link "7294d219-9e57-4181-ae0b-604cbe666517" "OpenSolver" %}}, YALMIP in MATLAB™, open source solvers in common programming languages, etc).
+Solver is limited to 200 decision variables for all models, and it is limited to 100 constraints for nonlinear models. While many successful projects will be possible with these limits, other projects will need software capable of solving much larger optimization problems. There are also tools that permit upfront programming or scripting to formulate the model. The TAs and consultants will provide limited support to groups wishing to learn and use other tools (such as [CPLEX](http://en.wikipedia.org/wiki/CPLEX), [AMPL{{< sup "®" >}}](http://www.ampl.com/), [OpenSolver](http://opensolver.org/), YALMIP in MATLAB™, open source solvers in common programming languages, etc).
 
 Sample Topics
 -------------
