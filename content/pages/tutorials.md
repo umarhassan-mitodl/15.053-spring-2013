@@ -25,7 +25,7 @@ The expressiveness of Excel comes at the cost of having a long learning curve. W
 - Working with charts (graphs)
 - Printing and exporting
 
-For its enrolled students and staff, MIT provides free use of the software tutorial service {{% resource_link "452ee616-a68a-4cc7-a37a-3335f26422d6" "Lynda.com" %}}. Many excellent tutorials for Excel can be found there.
+For its enrolled students and staff, MIT provides free use of the software tutorial service [Lynda.com](http://www.lynda.com/). Many excellent tutorials for Excel can be found there.
 
 ## Course Topic Tutorials
 
