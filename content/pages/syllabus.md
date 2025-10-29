@@ -39,13 +39,13 @@ See the [calendar](#Cal) below for more details.
 Textbook and Software
 ---------------------
 
-There is no required textbook for the subject. Students can refer to the following book, out of print but [available free online](http://web.mit.edu/15.053/www/), for some of the material.
+There is no required textbook for the subject. Students can refer to the following book, out of print but {{% resource_link "4502f4be-0d79-41bf-ae71-8d1bf3635e7e" "available free online" %}}, for some of the material.
 
-*   Bradley, S. P., A. C. Hax, and T. L. Magnanti. _[Applied Mathematical Programming](http://web.mit.edu/15.053/www/)_. Addison-Wesley, 1977. ISBN: 9780201004649.
+*   Bradley, S. P., A. C. Hax, and T. L. Magnanti. _{{% resource_link "4502f4be-0d79-41bf-ae71-8d1bf3635e7e" "Applied Mathematical Programming" %}}_. Addison-Wesley, 1977. ISBN: 9780201004649.
 
 Microsoft{{< sup "®" >}} Excel will be used frequently within 15.053. Students will be using the "Solver" Add-in that is available when Microsoft{{< sup "®" >}} Office or Excel is installed.
 
-The class will use [Piazza](https://piazza.com/) for online discussions and announcements.
+The class will use {{% resource_link "bdaffae9-3d16-43ce-af4c-07d8b66b8930" "Piazza" %}} for online discussions and announcements.
 
 Grading
 -------
